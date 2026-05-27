@@ -1,19 +1,19 @@
 <h1 align="center">Olá! 👋, meu nome é Sofia!</h1>
-<h3 align="center">Sou uma desenvolvedora de principalmente backend, mas também sei front-end um pouco!</h3>
+<h3 align="center">Sou uma desenvolvedora de principalmente backend, mas também sei front-end! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solicitedpoet2&label=Profile%20views&color=0e75b6&style=flat" alt="solicitedpoet2" /> </p>
 
 - 🔭 Estou trabalhando atualmente no projeto [NerdSystem API](https://github.com/NerdSystem0228/nerdsystem-api)
 
-- 🌱 Estou atualmente aprendendo **Django, C#**
+- 🌱 Estou atualmente aprendendo **Django, Python, GCP, AWS, Kurbenetes**
 
 - 🤝 Estou buscando ajuda com **Backend and Frontend topics**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/NerdSystem0228](https://github.com/NerdSystem0228)
 
-- 💬 Pode falar comigo sobre **Python, FastAPI, Backend**
+- 💬 Pode falar comigo sobre **Python, FastAPI, Django, Backend, React**
 
-- 📫 Como ter contato comigo **sofia.ks.barros@gmail.com**
+- 📫 Como ter contato comigo **kedu.barros@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
